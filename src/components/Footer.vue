@@ -3,7 +3,7 @@
 
 <template>
   <footer class="footer">
-    <p>&copy; 2025 My Website. blubb.</p>
+    <p>&copy; 2025</p>
   </footer>
 </template>
 
