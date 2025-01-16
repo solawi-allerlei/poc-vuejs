@@ -4,6 +4,7 @@
 <template>
   <div class="mitmachen">
     <h3>Mitmachen!</h3>
+    <div>Schreib uns eine Mail!</div>
     <strong>So funktioniert's:</strong>
     <li>1</li>
     <li>2</li>
